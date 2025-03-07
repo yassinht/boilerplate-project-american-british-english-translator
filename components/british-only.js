@@ -1,3 +1,5 @@
+// American equivalents of British words
+
 module.exports = {
   "abseil": "rappel",
   "accountancy": "accounting",
@@ -56,8 +58,8 @@ module.exports = {
   "cheeky": "impertinent",
   "child-minder": "babysitter",
   "chinwag": "chat",
-  "chippy": "fish-and-chip shop",
   "chip shop": "fish-and-chip shop",
+  "chippy": "fish-and-chip shop",
   "chuffed": "pleased",
   "chunder": "vomit",
   "clapped out": "clapped out",
